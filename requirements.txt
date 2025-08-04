@@ -3,3 +3,6 @@ uvicorn
 python-dotenv
 google-generativeai
 jinja2
+
+
+# python -m uvicorn chatbot_api:app --reload --port 8000
